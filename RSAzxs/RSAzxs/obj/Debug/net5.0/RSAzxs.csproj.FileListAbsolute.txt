@@ -1,0 +1,16 @@
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.exe
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.deps.json
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.runtimeconfig.json
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.runtimeconfig.dev.json
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.dll
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\ref\RSAzxs.dll
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\bin\Debug\net5.0\RSAzxs.pdb
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.AssemblyInfoInputs.cache
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.AssemblyInfo.cs
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.dll
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\ref\RSAzxs.dll
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.pdb
+C:\Users\smics\Desktop\RSA\rsalibrary\RSAzxs\RSAzxs\obj\Debug\net5.0\RSAzxs.genruntimeconfig.cache
